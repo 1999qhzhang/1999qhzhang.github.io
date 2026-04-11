@@ -4,7 +4,7 @@
 
 #### Published
 
-[5] <strong>Qinghua Zhang</strong>, Xi Ling, Yuping Duan, Jun Liu.  <span style="color:blue;">Low-rank Reduced Biquaternion Matrix Completion with Application to Color Image Inpainting.</span>  <strong>Pattern Recognition</strong>. 173(112914), 2026.  (SCI 检索，新锐 1 区 TOP，人工智能领域国际顶级期刊，中国计算机学会推荐期刊 CCF B 类，影响因子：7.6).  
+[5] <strong>Qinghua Zhang</strong>, Xi Ling, Yuping Duan, Jun Liu.  <span style="color:blue;">Frequency-Domain Multi-Regularization-Experts Fusion for Robust Non-line-of-sight Imaging.</span> <strong>Pattern Recognition</strong>. 173(112914), 2026.  (SCI 检索，新锐 1 区 TOP，人工智能领域国际顶级期刊，中国计算机学会推荐期刊 CCF B 类，影响因子：7.6).  
 
 [4] <strong>Qinghua Zhang</strong>, Jun Lin, Yuping Duan. <span style="color:blue;">Adaptive Attention based on Mixture Distribution for Zero-shot Non-line-of-sight Imaging.</span> <strong>IEEE Signal Processing Letters</strong>. 32, 1690-1694, 2025. (SCI 检索， 新锐 3 区， 中国计算机学会推荐期刊 CCF C 类，影响因子：3.9).
 
