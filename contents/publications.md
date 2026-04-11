@@ -1,16 +1,15 @@
-#### Submitted
+#### Arxiv
+[1] Yongshuai Liu, Lianfang Wang, Kuiling Qin, <strong>Qinghua Zhang</strong>, Faqiang Wang, Li Cui, Jun Liu, Yuping Duan, Tieyong Zeng. Deep Neural Networks Inspired by Differential Equations.</span> <strong>ACM Computing Surveys</strong>. Under Review.  2026. (SCI 检索，新锐 1 区 TOP，计算机领域国际顶级期刊，影响因子：28.0）
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+[5] <strong>Qinghua Zhang</strong>, Xi Ling, Yuping Duan, Jun Liu.  <span style="color:blue;">Low-rank Reduced Biquaternion Matrix Completion with Application to Color Image Inpainting.</span>  <strong>Pattern Recognition</strong>. 173(112914), 2026.  (SCI 检索，新锐 1 区 TOP，人工智能领域国际顶级期刊，中国计算机学会推荐期刊 CCF B 类，影响因子：7.6).  
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+[4] <strong>Qinghua Zhang</strong>, Jun Lin, Yuping Duan. <span style="color:blue;">Adaptive Attention based on Mixture Distribution for Zero-shot Non-line-of-sight Imaging.</span> <strong>IEEE Signal Processing Letters</strong>. 32, 1690-1694, 2025. (SCI 检索， 新锐 3 区， 中国计算机学会推荐期刊 CCF C 类，影响因子：3.9).
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+[3] <strong>Qinghua Zhang</strong>, Liangtian He, Shaobing Gao, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Quaternion-based Deep Image Prior with Regularization by Denoising for Color Image Restoration.</span> <strong>Signal Processing</strong>. 231(109883), 2025. (SCI 检索，新锐 2 区，中国计算机学会推荐期刊 CCF C 类，影响因子：3.6).
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+[2] <strong>Qinghua Zhang</strong>, Liangtian He, Yilun Wang, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Quaternion Weighted Schatten p-norm Minimization for Color Image Restoration with Convergence Guarantee.</span> <strong>Signal Processing</strong>. 218(109382), 2024. (SCI 检索， 新锐 2 区， 中国计算机学会推荐期刊 CCF C 类，影响因子：3.6).
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+[1] Liangtian He, <strong>Qinghua Zhang</strong>, Xuesong Yang, Yilun Wang, Chao Wang. <span style="color:blue;">SLN-RED: Regularization by Simultaneous Local and Nonlocal Denoising for Image Restoration.</span> <strong>IEEE Signal Processing Letters</strong>. 30, 578-582, 2023. (SCI 检索， 新锐 3 区， 中国计算机学会推荐期刊 CCF C 类，影响因子：3.6).
