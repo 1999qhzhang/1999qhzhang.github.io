@@ -1,12 +1,9 @@
+- National Scholarship for PhD Students (Ministry of Education, China), 2025.
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Outstanding Graduate Award (AHU), 2021.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- National Scholarship for Graduate Students (Ministry of Education, China), 2023.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- National Second Prize, The 19th Chinese Postgraduate Mathematical Modeling Competition, 2022.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- First-Prize Graduate Academic Scholarship (AHU), 2021 & 2022.
