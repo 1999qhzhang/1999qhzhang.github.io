@@ -9,7 +9,7 @@ I am currently a PhD student at the School of Mathematical Sciences of Beijing N
 Email: qhzhang@mail.bnu.edu.cn
 
 #### Education
-School of Mathematical Sciences, Beijing Normal University, Beijing, China, 2024 — Present.\
+PhD Student, School of Mathematical Sciences, Beijing Normal University, Beijing, China, 2024 — Present.\
 M.E., School of Mathematical Sciences, Anhui University, Hefei, China, 2021—2024.\
 B.E., School of Mathematics and Statistics, Huangshan University, Huangshan, China, 2017—2021.
 
