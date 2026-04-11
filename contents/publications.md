@@ -1,5 +1,5 @@
 #### Arxiv
-[1] Yongshuai Liu, Lianfang Wang, Kuiling Qin, <strong>Qinghua Zhang</strong>, Faqiang Wang, Li Cui, Jun Liu, Yuping Duan, Tieyong Zeng. Deep Neural Networks Inspired by Differential Equations.</span> <strong>ACM Computing Surveys</strong>. In Revision.  2026. (SCI 检索，新锐 1 区 TOP，计算机领域国际顶级期刊，影响因子：28.0）
+[1] Yongshuai Liu, Lianfang Wang, Kuiling Qin, <strong>Qinghua Zhang</strong>, Faqiang Wang, Li Cui, Jun Liu, Yuping Duan, Tieyong Zeng.  <span style="color:blue;">Deep Neural Networks Inspired by Differential Equations.</span> <strong>ACM Computing Surveys</strong>. In Revision.  2026. (SCI 检索，新锐 1 区 TOP，计算机领域国际顶级期刊，影响因子：28.0）
 
 
 #### Published
