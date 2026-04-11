@@ -2,7 +2,7 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-I am currently a PhD student at the School of Mathematical Sciences of Beijing Normal University.\
+I am currently a PhD student at the School of Mathematical Sciences of Beijing Normal University.
 
 #### Contact
 
