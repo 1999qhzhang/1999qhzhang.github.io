@@ -1,5 +1,5 @@
 #### Arxiv
-[3] <strong>Qinghua Zhang</strong>, Junying Meng, Yuping Duan, Jun Liu. <span style="color:blue;">Learnable Latent Factorized Nonlocal Variational \\Attention for Non-Line-of-Sight Imaging.</span> <strong>Preprint</strong>. (2026).
+[3] <strong>Qinghua Zhang</strong>, Junying Meng, Yuping Duan, Jun Liu. <span style="color:blue;">Learnable Latent Factorized Nonlocal Variational Attention for Non-Line-of-Sight Imaging.</span> <strong>Preprint</strong>. (2026).
 
 [2] <strong>Qinghua Zhang</strong>, Junying Meng, Yuping Duan, Jie Zhang, Jun Liu. <span style="color:blue;">A Learnable Regularized Nonlocal Functional Minimization Method for NLOS Imaging.</span> <strong>Preprint</strong>. (2026).
 
