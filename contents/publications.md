@@ -3,7 +3,7 @@
 
 [2] <strong>Qinghua Zhang</strong>, Junying Meng, Yuping Duan, Jie Zhang, Jun Liu. <span style="color:blue;">A Learnable Regularized Nonlocal Functional Minimization Method for NLOS Imaging.</span> <strong>Preprint</strong>. (2026).
 
-[1] Yongshuai Liu, Lianfang Wang, Kuiling Qin, <strong>Qinghua Zhang</strong>, Faqiang Wang, Li Cui, Jun Liu, Yuping Duan, Tieyong Zeng.  <span style="color:blue;">Deep Neural Networks Inspired by Differential Equations.</span> <strong>ACM Computing Surveys</strong>. Minor Revised.  2026. (SCI 检索，JCR-Q1，计算机领域国际顶级期刊，影响因子：30.4）
+[1] Yongshuai Liu, Lianfang Wang, Kuiling Qin, <strong>Qinghua Zhang</strong>, Faqiang Wang, Li Cui, Jun Liu, Yuping Duan, Tieyong Zeng.  <span style="color:blue;">Deep Neural Networks Inspired by Differential Equations.</span> <strong>ACM Computing Surveys</strong>. Accepted.  2026. (SCI 检索，JCR-Q1，计算机领域国际顶级期刊，影响因子：30.4）
 
 
 #### Published
