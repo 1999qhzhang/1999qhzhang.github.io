@@ -8,13 +8,13 @@
 
 #### Published
 
-[8] <strong>Qinghua Zhang}</strong>, Xuesong Yang, Liangtian He, Liang-jian Deng, Jun Liu. Pixel-Intensity-Constrained Blind Deconvolution for Binary and Pattern Images. <span style="color:blue;">IEEE Signal Processing Letters.</span> <strong>Accepted<\strong>. (2026). (SCI 检索， JCR-Q2， 中国计算机学会推荐期刊 CCF C 类，影响因子：3.6).
+[8] <strong>Qinghua Zhang}</strong>, Xuesong Yang, Liangtian He, Liang-jian Deng, Jun Liu. Pixel-Intensity-Constrained Blind Deconvolution for Binary and Pattern Images. <span style="color:blue;">IEEE Signal Processing Letters.</span> <strong>Accepted</strong>. (2026). (SCI 检索， JCR-Q2， 中国计算机学会推荐期刊 CCF C 类，影响因子：3.6).
 
 [7] Lianfang Wang, Xueying Liu, Junnan Dong, <strong>Qinghua Zhang</strong>, JunLiu, Yong Wang, YupingDuan. <span style="color:blue;">Measurement-adaptive light-cone transform for robust non-line-of-sight imaging.</span> <strong>Optics Express</strong>. 34(22): 42680--42695 (2026). (SCI 检索，JCR-Q2, 光学领域国际权威期刊).
 
 [6] Yongshuai Liu, Lianfang Wang, Kuiling Qin, <strong>Qinghua Zhang</strong>, Faqiang Wang, Li Cui, Jun Liu, Yuping Duan, Tieyong Zeng.  <span style="color:blue;">Deep Neural Networks Inspired by Differential Equations.</span> <strong>ACM Computing Surveys</strong>. 58: 1–37 (2026). (SCI 检索，JCR-Q1，计算机领域国际顶级期刊，影响因子：30.4).
 
-[5] <strong>Qinghua Zhang</strong>, Xi Ling, Yuping Duan, Jun Liu.  <span style="color:blue;">Frequency-Domain Multi-Regularization-Experts Fusion for Robust Non-line-of-sight Imaging.</span> <strong>Pattern Recognition</strong>. 173(112914), 2026.  (SCI 检索，JCR-Q1，人工智能领域国际顶级期刊，中国计算机学会推荐期刊 CCF B 类，影响因子：9.1).  
+[5] <strong>Qinghua Zhang</strong>, Xi Ling, Yuping Duan, Jun Liu. <span style="color:blue;">Frequency-Domain Multi-Regularization-Experts Fusion for Robust Non-line-of-sight Imaging.</span> <strong>Pattern Recognition</strong>. 173(112914), 2026.  (SCI 检索，JCR-Q1，人工智能领域国际顶级期刊，中国计算机学会推荐期刊 CCF B 类，影响因子：9.1).  
 
 [4] <strong>Qinghua Zhang</strong>, Jun Liu, Yuping Duan. <span style="color:blue;">Adaptive Attention based on Mixture Distribution for Zero-shot Non-line-of-sight Imaging.</span> <strong>IEEE Signal Processing Letters</strong>. 32, 1690-1694, 2025. (SCI 检索， JCR-Q2， 中国计算机学会推荐期刊 CCF C 类，影响因子：3.6).
 
