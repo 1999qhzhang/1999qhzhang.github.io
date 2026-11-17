@@ -8,7 +8,7 @@
 
 #### Published
 
-[8] <strong>Qinghua Zhang</strong>, Xuesong Yang, Liangtian He, Liang-jian Deng, Jun Liu. Pixel-Intensity-Constrained Blind Deconvolution for Binary and Pattern Images. <span style="color:blue;">IEEE Signal Processing Letters.</span> <strong>Accepted</strong>. (2026). (SCI 检索， JCR-Q2， 中国计算机学会推荐期刊 CCF C 类，影响因子：3.6).
+[8] <strong>Qinghua Zhang</strong>, Xuesong Yang, Liangtian He, Liang-jian Deng, Jun Liu. <span style="color:blue;">Pixel-Intensity-Constrained Blind Deconvolution for Binary and Pattern Images. </span> <strong>IEEE Signal Processing Letters.</strong> Accepted. (2026). (SCI 检索， JCR-Q2， 中国计算机学会推荐期刊 CCF C 类，影响因子：3.6).
 
 [7] Lianfang Wang, Xueying Liu, Junnan Dong, <strong>Qinghua Zhang</strong>, Jun Liu, Yong Wang, YupingDuan. <span style="color:blue;">Measurement-adaptive light-cone transform for robust non-line-of-sight imaging.</span> <strong>Optics Express</strong>, 34(22): 42680--42695 (2026). (SCI 检索，JCR-Q2, 光学领域国际权威期刊).
 
